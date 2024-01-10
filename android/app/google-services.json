@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883724400776",
+    "project_id": "egypt-wonders-b4477",
+    "storage_bucket": "egypt-wonders-b4477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883724400776:android:7d6ec071ffc5fe0c86073d",
+        "android_client_info": {
+          "package_name": "com.example.egypt_wonders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgq4DBUk-yeZziB1uurF4LjFkPCa7edwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
